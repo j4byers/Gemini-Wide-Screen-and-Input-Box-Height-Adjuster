@@ -255,7 +255,7 @@
             height: auto !important;
         }
         div .input-buttons-wrapper-top {
-            right: 12px !important;
+            right: 8px !important;
         }
         div .isFullscreen {
             max-height: 100% !important;
